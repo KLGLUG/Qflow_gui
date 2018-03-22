@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Qflow
+Exec=bash -c "cd /opt/qflow;./qflow.sh; exec bash"
+Icon=/home/tejalavu96/Pictures/qflow.jpg
+Terminal=true
+Type=Application
+

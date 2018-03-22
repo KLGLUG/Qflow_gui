@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=QflowInstaller
+Exec=bash -c "cd $(dirname %k);./addl_scripts/sample.sh; exec bash"
+Icon=/home/tejalavu96/qflow/qflow_logo.png
+Terminal=true
